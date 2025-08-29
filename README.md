@@ -10,10 +10,10 @@
   
   <h2 align="left"> Internships </h2>
     <h4 align="left"> Embedded SWE Intern | May 2025 - October 2025 | Palm Bay, FL | 
-      <img src="https://img.shields.io/badge/Ubuntu Linux-yellow" style="height: 1em; vertical-align: middle;"/>
-      <img src="https://img.shields.io/badge/Kernel Programming-grey" style="height: 1em; vertical-align: middle;"/>
-      <img src="https://img.shields.io/badge/C/C++-blue" style="height: 1em; vertical-align: middle;"/>
-      <img src="https://img.shields.io/badge/Docker-lightblue" style="height: 1em; vertical-align: middle;"/>
+      <img src="https://img.shields.io/badge/Ubuntu Linux-yellow"/>
+      <img src="https://img.shields.io/badge/Kernel Programming-grey"/>
+      <img src="https://img.shields.io/badge/C/C++-blue"/>
+      <img src="https://img.shields.io/badge/Docker-lightblue"/>
     </h4>
       <ul> 
         <li align="left">Created a <strong>character device driver</strong> using a kernel module to capture fibre channel frames from an ZU11 PL FPGA and send them off on a UDP port.</li>
@@ -21,10 +21,10 @@
         <li align="left">Configured and initialized registers on the FPGA and implemented an Anonymous Subscriber Messaging system with 34 unique message labels through the driver. </li>
         <li align="left">Worked heavily within Linux to accomplish networking tasks as well as low-level register mapping tasks.</li> </ul>
     <h4 align="left"> Full-Stack SWE Intern | May 2024 - April 2025 | Colorado Springs, CO | 
-      <img src="https://img.shields.io/badge/React-lightblue" style="height: 1em; vertical-align: middle;"/>
-      <img src="https://img.shields.io/badge/SpringBoot-green" style="height: 1em; vertical-align: middle;"/>
-      <img src="https://img.shields.io/badge/JavaScript-yellow" style="height: 1em; vertical-align: middle;"/>
-      <img src="https://img.shields.io/badge/Java-red" style="height: 1em; vertical-align: middle;"/>
+      <img src="https://img.shields.io/badge/React-lightblue"/>
+      <img src="https://img.shields.io/badge/SpringBoot-green"/>
+      <img src="https://img.shields.io/badge/JavaScript-yellow"/>
+      <img src="https://img.shields.io/badge/Java-red"/>
     </h4>
       <ul>
         <li align="left">Joined a pre-existing project (xGEO) with a focus on overhauling an unperforming webpage for operators manning telescopes at GEODSS sites.</li>
@@ -32,10 +32,10 @@
         <li align="left">Created capabilities for .ini editing through the webpage, .fits file processing, and launching external applications using SpringBoot connections.</li>
       </ul>
     <h4 align="left"> AI/ML SWE Intern | May 2023 - August 2023 | Palm Bay, FL | 
-      <img src="https://img.shields.io/badge/Python-blue" style="height: 1em; vertical-align: middle;"/>
-      <img src="https://img.shields.io/badge/Jenkins-red" style="height: 1em; vertical-align: middle;"/>
-      <img src="https://img.shields.io/badge/TensorFlow-orange" style="height: 1em; vertical-align: middle;"/>
-      <img src="https://img.shields.io/badge/Keras-lightblue" style="height: 1em; vertical-align: middle;"/>
+      <img src="https://img.shields.io/badge/Python-blue"/>
+      <img src="https://img.shields.io/badge/Jenkins-red"/>
+      <img src="https://img.shields.io/badge/TensorFlow-orange"/>
+      <img src="https://img.shields.io/badge/Keras-lightblue"/>
     </h4>
       <ul>
         <li align="left">Trained one of three AI models used to obtain final output with a focus on word frequency, which predicted failures correctly ~65% of the time.</li>
