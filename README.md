@@ -7,8 +7,6 @@
 computer engineering & mathematics @ ucf  
 interested in graphics, hpc, ai/ml, and low-level programming
 
-i hope to learn something new everyday!
-
 ### previously interned at
 
 <p>
