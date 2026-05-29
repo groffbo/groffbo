@@ -23,6 +23,6 @@ interested in graphics, hpc, ai/ml, and low-level programming
   </a>
   
   <a href="https://bowengroff.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=firefox-browser&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logoColor=white"/>
   </a>
 </p>
