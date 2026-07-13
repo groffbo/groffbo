@@ -5,7 +5,7 @@
 # hello world, i'm bowen :^D
 
 computer engineering & mathematics @ ucf  
-interested in graphics, hpc, ai/ml, and low-level programming
+interested in gpus, hpc, ai/ml, and low-level programming
 
 ### previously interned at
 
